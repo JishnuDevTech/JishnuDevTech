@@ -1,43 +1,53 @@
-<!-- ========================= GODZILLA MODE ========================= -->
+<!-- ========================= GLOBAL ELITE HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0b0b0b&height=210&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00F7FF&fontSize=44&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:000000&height=190&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00F7FF&fontSize=42&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2600&color=00F7FF&center=true&vCenter=true&width=900&lines=Learning+by+Building;Systems+over+Syntax;Builder+Mode+Always+On;Clean+Mind+Sharp+Code;Silent+Grind+Loud+Results" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=00F7FF&center=true&vCenter=true&width=850&lines=Learning+by+Building;Systems+over+Syntax;Builder+Mode+Always+On;Clean+Mind+Sharp+Code" />
 </p>
+
+<!-- ========================= GLOBAL CONNECT ========================= -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jishnu-rahegaonkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="https://jishnu-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
   <a href="https://github.com/JishnuDevTech">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
   <a href="mailto:jishnurahegaonkar@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
 </p>
 
 ---
 
+<!-- ========================= IDENTITY ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=90&section=header&text=ABOUT&fontColor=00F7FF&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=IDENTITY&fontColor=00F7FF&fontSize=26" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Web+Developer+%7C+JavaScript;App+Development+Track+%7C+Dart+×+Flutter;Learning+by+building+real+systems;Designing+logic+before+UI;Building+products+not+demos" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00F7FF&center=true&vCenter=true&width=950&lines=Web+Developer+%7C+JavaScript;App+Development+%7C+Dart+×+Flutter;Learning+by+building+real+systems;Logic-first+engineering;Product-focused+development" />
 </p>
 
 ---
 
+<!-- ========================= TECH STACK TAGS ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=90&section=header&text=PROJECTS&fontColor=00F7FF&fontSize=28" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,flutter,dart,python,git,github,linux,vscode" />
 </p>
+
+---
+
+<!-- ========================= PROJECT SIGNAL ========================= -->
 
 <p align="center">
   <a href="https://streak-hub.netlify.app/">
@@ -53,9 +63,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=90&section=header&text=STATS&fontColor=00F7FF&fontSize=28" />
-</p>
+<!-- ========================= GLOBAL METRICS ========================= -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -71,8 +79,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0b0b0b&height=150&section=footer&text=BUILT%20NOT%20DECORATED&fontColor=00F7FF&fontSize=22" />
-</p>
+<!-- ========================= GLOBAL FOOTER ========================= -->
 
-<!-- ========================= END GODZILLA ========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0b0b0b&height=140&section=footer&text=BUILT%20NOT%20DECORATED&fontColor=00F7FF&fontSize=22" />
+</p>
