@@ -1,13 +1,21 @@
-<!-- ========================= HERO ========================= -->
+<!-- ======================= COREMODE MAX PROOF ======================= -->
 
+<!-- HERO NEURAL HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:000000&height=190&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00F7FF&fontSize=42&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:020202&height=220&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00F7FF&fontSize=44&animation=twinkling&fontAlignY=38" />
 </p>
 
+<!-- NEON GRID BACKGROUND EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+by+Building;Systems+over+Syntax;Builder+Mode+Always+On;Silent+Grind+Loud+Results" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=BUILDER%20MODE&width=1000&height=120" />
 </p>
 
+<!-- TYPING CORE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;IDENTITY+LOADED;BUILDER+MODE+ACTIVE;SYSTEMS+OVER+SYNTAX;SILENT+GRIND+LOUD+RESULTS" />
+</p>
+
+<!-- CONTROL PANEL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jishnu-rahegaonkar/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
@@ -23,66 +31,43 @@
   </a>
 </p>
 
----
-
-<!-- ========================= ABOUT ========================= -->
-
+<!-- GLASS DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=ABOUT&fontColor=00F7FF&fontSize=28" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-2c8e3c4c-4f8c-4b6d-9a4e-9a47f4c8f7b1.gif" width="80%" />
+</p>
+
+<!-- IDENTITY CORE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Web+Developer+%7C+JavaScript;App+Dev+Track+%7C+Dart+×+Flutter;Learning+by+Building;Systems+Thinking;Product+Engineering+Mindset" />
+</p>
+
+<!-- PROJECT CARDS -->
+<p align="center">
+  <a href="https://streak-hub.netlify.app/"><img src="https://img.shields.io/badge/StreakHub-020202?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+  <a href="https://time-bound.netlify.app/"><img src="https://img.shields.io/badge/TimeBound-020202?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+  <a href="https://daily-task-focus.netlify.app/"><img src="https://img.shields.io/badge/DailyTaskFocus-020202?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+</p>
+
+<!-- DATA DASHBOARD -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JishnuDevTech&theme=onestar&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+JavaScript+Focused;App+Dev+Track+%7C+Dart+%C3%97+Flutter;Learning+by+building+real+systems;Designing+logic+before+UI" />
-</p>
-
----
-
-<!-- ========================= PROJECTS ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=PROJECTS&fontColor=00F7FF&fontSize=28" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Productivity+Systems;Task+Management+Platforms;Personal+Tools;Learning+Projects;Experimental+Builds" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JishnuDevTech&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://streak-hub.netlify.app/">
-    <img src="https://img.shields.io/badge/StreakHub-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
-  <a href="https://time-bound.netlify.app/">
-    <img src="https://img.shields.io/badge/TimeBound-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
-  <a href="https://daily-task-focus.netlify.app/">
-    <img src="https://img.shields.io/badge/DailyTaskFocus-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuDevTech&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
----
-
-<!-- ========================= STATS ========================= -->
-
+<!-- FOOTER MATRIX -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=STATS&fontColor=00F7FF&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:020202&height=160&section=footer&text=BUILT%20NOT%20DECORATED&fontColor=00F7FF&fontSize=24" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JishnuDevTech&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuDevTech&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<!-- ========================= FOOTER ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0b0b0b&height=140&section=footer&text=BUILT+NOT+DECORATED&fontColor=00F7FF&fontSize=22" />
-</p>
+<!-- ======================= END COREMODE MAX ======================= -->
