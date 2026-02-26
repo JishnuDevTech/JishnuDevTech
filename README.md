@@ -38,23 +38,6 @@
 </p>
 
 ---
-<!-- ========================= ABOUT ME (SYNC CORE) ========================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=ABOUT%20ME&fontColor=00F7FF&fontSize=26" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3200&color=00F7FF&center=true&vCenter=true&width=950&lines=I+don’t+learn+tech+to+know+it.;I+learn+tech+to+build+with+it.;Curiosity+is+my+compiler.;Logic+is+my+language.;Discipline+is+my+framework.;I+don’t+chase+tools+—+I+master+systems.;Every+project+is+an+experiment.;Every+experiment+is+growth." />
-</p>
-
-<p align="center">
-  <sub>
-    Builder mindset. System thinker. Learning by building real products.  
-    Focused on logic-first engineering, clean architecture, and scalable systems.  
-    Progress over perfection. Structure over noise. Vision over trends.
-  </sub>
-</p>
 <!-- ========================= TECH STACK TAGS ========================= -->
 
 <p align="center">
