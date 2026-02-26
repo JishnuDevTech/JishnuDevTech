@@ -1,50 +1,67 @@
 <div align="center">
 
 # ⚡ Jishnu Dev Tech ⚡  
-### Builder | Developer | System Thinker
+### Web Developer | App Development Track (Dart × Flutter)
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 About Me
 
-<a href="https://www.linkedin.com/in/jishnu-rahegaonkar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Jishnu_Rahegaonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I’m Jishnu Ritesh Rahegaonkar, a Diploma Computer Engineering student focused on building real digital products through project-driven learning.
 
-<a href="https://jishnu-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Jishnu_Dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+I work primarily in **Web Development using JavaScript** and I’m currently transitioning into **App Development using Dart & Flutter**.  
+My learning style is simple: build real systems, ship real projects, improve through iteration.
 
-<a href="https://github.com/JishnuDevTech" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-JishnuDevTech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I use GitHub as a **build space**, not a resume.  
+It’s where I experiment, learn, and evolve through real work.
 
-<a href="mailto:jishnurahegaonkar@gmail.com">
-  <img src="https://img.shields.io/badge/Mail_Me-jishnurahegaonkar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+## 🌐 Connect & Links
+
+<div align="left">
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/jishnu-rahegaonkar/  
+- 🌍 Portfolio: https://jishnu-portfolio.netlify.app  
+- 💻 GitHub: https://github.com/JishnuDevTech  
+- 📧 Mail me: jishnurahegaonkar@gmail.com  
 
 </div>
 
 ---
 
+## 🚀 Live Projects
+
+- 🔹 **Streak Hub** → https://streak-hub.netlify.app  
+- 🔹 **Time Bound** → https://time-bound.netlify.app  
+- 🔹 **Daily Task Focus** → https://daily-task-focus.netlify.app  
+
+---
+
+## ⚙️ Focus Areas
+
+- Web systems (JavaScript)  
+- App development (Dart × Flutter)  
+- Project-based learning  
+- Real-world problem solving  
+- System thinking  
+- Execution-first development  
+
+---
+
+## 🧠 Work Style
+
+Build → Test → Break → Improve → Ship  
+
+I believe in learning through real implementation, not just theory or tutorials.  
+Growth comes from building, not browsing.
+
+---
+
 <div align="center">
 
-## 🧠 WHO I AM
+⚡ Build. Learn. Evolve. ⚡  
 
 </div>
-
-```text
-Not a resume.
-Not a corporate bio.
-Not a LinkedIn clone.
-
-I use GitHub as a build space.
-A lab.
-A system playground.
-A project ecosystem.
-
-I learn by building.
-I grow by shipping.
-I evolve by breaking and rebuilding.
