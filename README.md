@@ -1,112 +1,90 @@
-<div align="center">
+<!-- ========================= SYSTEM BOOT ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=220&section=header&text=Jishnu%20Dev%20Tech&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0a0a0a&height=180&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00f7ff&fontSize=40&animation=fadeIn&fontAlignY=38" />
+</p>
 
-### 🚀 Web Developer | App Development Track (Dart × Flutter)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;BUILDER+MODE+ACTIVE;LEARNING+BY+BUILDING;SYSTEMS+OVER+SYNTAX;SILENT+GRIND+PROTOCOL" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jishnu-rahegaonkar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Jishnu_Rahegaonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://jishnu-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Jishnu_Dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/JishnuDevTech" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-JishnuDevTech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:jishnurahegaonkar@gmail.com">
-  <img src="https://img.shields.io/badge/Mail_Me-jishnurahegaonkar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jishnu-rahegaonkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="https://jishnu-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF"/>
+  </a>
+  <a href="https://github.com/JishnuDevTech">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+  <a href="mailto:jishnurahegaonkar@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
+</p>
 
 ---
 
-## 👋 About Me
+## IDENTITY CORE
 
-<div style="background:#0f172a;padding:20px;border-radius:12px;color:#e5e7eb;">
-
-I’m **Jishnu Ritesh Rahegaonkar**, a Diploma Computer Engineering student focused on building real digital products through **project-driven learning**.
-
-I work primarily in **Web Development (JavaScript)** and I’m currently transitioning into **App Development (Dart × Flutter)**.
-
-I use GitHub as a **build space**, not a resume.  
-A place to experiment, ship, break, rebuild, and evolve.
-
-</div>
+Name: Jishnu Rahegaonkar  
+Mode: Builder  
+Role: System learner  
+Track: Web → App → Systems  
+Method: Build > Break > Fix > Ship  
+Philosophy: Logic first. Tools later.
 
 ---
 
-## 🚀 Live Projects
+## SYSTEM BEHAVIOR
 
-<div align="center">
-
-<a href="https://streak-hub.netlify.app"><img src="https://img.shields.io/badge/Streak_Hub-Live-22c55e?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://time-bound.netlify.app"><img src="https://img.shields.io/badge/Time_Bound-Live-3b82f6?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://daily-task-focus.netlify.app"><img src="https://img.shields.io/badge/Daily_Task_Focus-Live-f97316?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-
-</div>
+- Learning by building real systems  
+- Thinking in flows, not files  
+- Designing logic before UI  
+- Solving problems before writing code  
+- Building for function, not flex  
 
 ---
 
-## ⚙️ Focus Areas
+## PROJECT GRID
 
-<div align="center">
+[ Personal Platforms ]  
+[ Productivity Systems ]  
+[ Task Architectures ]  
+[ Learning Tools ]  
+[ Digital Utilities ]  
+[ Experimental Builds ]
 
-<img src="https://skillicons.dev/icons?i=js,html,css,dart,flutter,git,github,vscode" />
-
-</div>
-
-<div style="background:#020617;padding:18px;border-radius:12px;color:#e5e7eb;">
-
-• Web systems  
-• App development  
-• Project-based learning  
-• Real-world problem solving  
-• System thinking  
-• Execution-first development  
-
-</div>
+Full source: GitHub  
+Full showcase: Portfolio  
 
 ---
 
-## 📊 GitHub Stats
+## NETWORK PORTS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JishnuDevTech&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuDevTech&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+LINKEDIN  : https://www.linkedin.com/in/jishnu-rahegaonkar/  
+PORTFOLIO : https://jishnu-portfolio.netlify.app  
+GITHUB    : https://github.com/JishnuDevTech  
+EMAIL     : jishnurahegaonkar@gmail.com  
 
 ---
 
-## 🧠 Work Style
+## SYSTEM METRICS
 
-<div style="background:#020617;padding:18px;border-radius:12px;color:#e5e7eb;text-align:center;font-size:16px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Build → Test → Break → Improve → Ship  
-<br><br>
-Learning through real implementation.  
-Growth through execution.  
-Evolution through iteration.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JishnuDevTech&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuDevTech&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0f0f0f&height=120&section=footer" />
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=160&section=footer"/>
-
-⚡ Build. Learn. Evolve. ⚡  
-
-</div>
+<!-- ========================= END SYSTEM ========================= -->
