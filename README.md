@@ -1,34 +1,50 @@
-# Jishnu Ritesh Rahegaonkar
+<div align="center">
 
-**Web Developer | JavaScript**  
-**App Development Track: Dart × Flutter**
+# ⚡ Jishnu Dev Tech ⚡  
+### Builder | Developer | System Thinker
 
----
-
-### 🌐 Connect
-- LinkedIn: https://www.linkedin.com/in/jishnu-rahegaonkar/  
-- Portfolio: https://jishnu-portfolio.netlify.app  
-- GitHub: https://github.com/JishnuDevTech  
-- Email: mailto:jishnurahegaonkar@gmail.com  
+</div>
 
 ---
 
-### 🧠 Focus
-- Web systems  
-- App development  
-- Project-driven learning  
-- Real-world builds  
-- Execution-first development  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jishnu-rahegaonkar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jishnu_Rahegaonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jishnu-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Jishnu_Dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JishnuDevTech" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-JishnuDevTech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:jishnurahegaonkar@gmail.com">
+  <img src="https://img.shields.io/badge/Mail_Me-jishnurahegaonkar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🚀 Live Projects
-- https://streak-hub.netlify.app  
-- https://time-bound.netlify.app  
-- https://daily-task-focus.netlify.app  
+<div align="center">
 
----
+## 🧠 WHO I AM
 
-### ⚙️ Work Ethos
-Build → Test → Iterate → Ship  
-Systems over demos. Execution over noise.
+</div>
+
+```text
+Not a resume.
+Not a corporate bio.
+Not a LinkedIn clone.
+
+I use GitHub as a build space.
+A lab.
+A system playground.
+A project ecosystem.
+
+I learn by building.
+I grow by shipping.
+I evolve by breaking and rebuilding.
