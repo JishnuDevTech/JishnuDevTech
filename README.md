@@ -1,11 +1,11 @@
-<!-- ========================= SYSTEM BOOT ========================= -->
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0a0a0a&height=180&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00f7ff&fontSize=40&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:000000&height=190&section=header&text=JISHNU%20RAHEGAONKAR&fontColor=00F7FF&fontSize=42&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;BUILDER+MODE+ACTIVE;LEARNING+BY+BUILDING;SYSTEMS+OVER+SYNTAX;SILENT+GRIND+PROTOCOL" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+by+Building;Systems+over+Syntax;Builder+Mode+Always+On;Silent+Grind+Loud+Results" />
 </p>
 
 <p align="center">
@@ -25,51 +25,47 @@
 
 ---
 
-## IDENTITY CORE
+<!-- ========================= ABOUT ========================= -->
 
-Name: Jishnu Rahegaonkar  
-Mode: Builder  
-Role: System learner  
-Track: Web → App → Systems  
-Method: Build > Break > Fix > Ship  
-Philosophy: Logic first. Tools later.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=ABOUT&fontColor=00F7FF&fontSize=28" />
+</p>
 
----
-
-## SYSTEM BEHAVIOR
-
-- Learning by building real systems  
-- Thinking in flows, not files  
-- Designing logic before UI  
-- Solving problems before writing code  
-- Building for function, not flex  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+JavaScript+Focused;App+Dev+Track+%7C+Dart+%C3%97+Flutter;Learning+by+building+real+systems;Designing+logic+before+UI" />
+</p>
 
 ---
 
-## PROJECT GRID
+<!-- ========================= PROJECTS ========================= -->
 
-[ Personal Platforms ]  
-[ Productivity Systems ]  
-[ Task Architectures ]  
-[ Learning Tools ]  
-[ Digital Utilities ]  
-[ Experimental Builds ]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=PROJECTS&fontColor=00F7FF&fontSize=28" />
+</p>
 
-Full source: GitHub  
-Full showcase: Portfolio  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Productivity+Systems;Task+Management+Platforms;Personal+Tools;Learning+Projects;Experimental+Builds" />
+</p>
+
+<p align="center">
+  <a href="https://streak-hub.netlify.app/">
+    <img src="https://img.shields.io/badge/StreakHub-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  </a>
+  <a href="https://time-bound.netlify.app/">
+    <img src="https://img.shields.io/badge/TimeBound-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  </a>
+  <a href="https://daily-task-focus.netlify.app/">
+    <img src="https://img.shields.io/badge/DailyTaskFocus-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  </a>
+</p>
 
 ---
 
-## NETWORK PORTS
+<!-- ========================= STATS ========================= -->
 
-LINKEDIN  : https://www.linkedin.com/in/jishnu-rahegaonkar/  
-PORTFOLIO : https://jishnu-portfolio.netlify.app  
-GITHUB    : https://github.com/JishnuDevTech  
-EMAIL     : jishnurahegaonkar@gmail.com  
-
----
-
-## SYSTEM METRICS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0b0b0b&height=80&section=header&text=STATS&fontColor=00F7FF&fontSize=28" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JishnuDevTech&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -83,8 +79,10 @@ EMAIL     : jishnurahegaonkar@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuDevTech&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0f0f0f&height=120&section=footer" />
-</p>
+---
 
-<!-- ========================= END SYSTEM ========================= -->
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0b0b0b&height=140&section=footer&text=BUILT+NOT+DECORATED&fontColor=00F7FF&fontSize=22" />
+</p>
